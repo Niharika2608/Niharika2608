@@ -1,7 +1,7 @@
 Hello Geeks 👋 This is Niharika Gupta
 ===============================
 
-UI/UX Designer and Web3 Enthusiast
+Frontend Designer and Community Manager
 ----------------------------------
 
 As a beginner, I have a great hands on Python ,C and C++ . I also have good understanding of MySQL database. I can also create good front-end using HTML, CSS, JS and I generally prefer Django to write backend. I am also skilled in Figma, Canva and Photoshop.
