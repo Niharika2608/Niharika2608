@@ -4,7 +4,7 @@ Hello Geeks 👋 This is Niharika Gupta
 Frontend Designer and Community Manager
 ----------------------------------
 
-As a beginner, I have a great hands on Python ,C and C++ . I also have good understanding of MySQL database. I can also create good front-end using HTML, CSS, JS and I generally prefer Django to write backend. I am also skilled in Figma, Canva and Photoshop.
+As a beginner, I have a great hands on Python,C and C++ . I also have good understanding of MySQL database. I can also create good front-end using HTML, CSS, JS and I generally prefer Django to write backend. I am also skilled in Figma, Canva and Photoshop.
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [niharikagupta1094@gmail.com](mailto:niharikagupta1094@gmail.com)
